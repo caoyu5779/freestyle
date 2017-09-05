@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BubbleSort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InsertSort.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/高性能Mysql.md" afterPath="$PROJECT_DIR$/高性能Mysql.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BubbleSort.php" afterPath="$PROJECT_DIR$/BubbleSort.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BubbleSort.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BubbleSort.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BubbleSort.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSort.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InsertSort.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -45,6 +55,7 @@
         <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com/applications/payplatform/cron/iap/cron_include.php" />
         <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com/applications/payplatform/controllers/Interface/Iap/Confirm.php" />
         <option value="$PROJECT_DIR$/BubbleSort.php" />
+        <option value="$PROJECT_DIR$/InsertSort.php" />
       </list>
     </option>
   </component>
@@ -140,12 +151,12 @@
       <updated>1503643110459</updated>
       <workItem from="1503643111661" duration="4211000" />
       <workItem from="1503888076771" duration="7635000" />
-      <workItem from="1504595215752" duration="3882000" />
+      <workItem from="1504595215752" duration="6704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15728000" />
+    <option name="totallyTimeSpent" value="18550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="838" extended-state="6" />
@@ -294,8 +305,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertSort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding />
         </state>
       </provider>
