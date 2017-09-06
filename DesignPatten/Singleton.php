@@ -38,6 +38,6 @@ class Singleton
 
     public function updateUserInfo()
     {
-        
+
     }
 }
