@@ -1,0 +1,42 @@
+$mailTpl = <<<MAILTPL
+<doctype html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+     <style type = "text/css">
+            * {
+                box-sizing: border-box;
+            }
+            body {font: 12px/1.3 'Arial','Microsoft YaHei';}
+            .table-bordered {border: 1px solid #ddd;border-spacing: 0;}
+            .table-bordered {border-collapse: separate;}
+            .table-bordered th,
+            .table-bordered td{border-left: 1px solid #ddd;border-bottom: 1px solid #ddd;}
+            .table-bordered th:first-child,
+            .table-bordered tr td:first-child{border-left: none;}
+            .table-bordered tr:last-child td{border-bottom: none;}
+            .table th,
+            .table td{padding: 10px;}
+	 </style>
+</head>
+<body>
+    <div>
+        <h2>
+              %s 到 %s 检查结果
+        </h2>
+    </div>
+    <div>
+        <p>C</p>
+    </div>
+    <div>
+        <p>A：%s条</p>
+        <p>B：%s条</p>
+    </div>
+    <div>
+        <p>经过确认，：%s条</p>
+        %s
+    </div>
+</body>
+</html>   
+
+MAILTPL;

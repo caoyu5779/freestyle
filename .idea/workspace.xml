@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/Comm_Db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/Singleton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/QuickSort.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ApacheVsNginx.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BubbleSort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Kickstarter竞品分析.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lancer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mongo VS Mysql.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP基础.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP手册学习笔记.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Redis 计数器.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Redis.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RocketMQ.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Scalability 学习笔记.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UNIX读书笔记.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/artisan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail_content.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/微博的缓存业务场景.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/设计模式.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/高性能Mysql.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/InsertSort.php" afterPath="$PROJECT_DIR$/Sort/InsertSort.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,28 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Singleton.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/Singleton.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comm_Db.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/Comm_Db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -59,6 +53,7 @@
         <option value="$PROJECT_DIR$/InsertSort.php" />
         <option value="$PROJECT_DIR$/Singleton.php" />
         <option value="$PROJECT_DIR$/DesignPatten/Singleton.php" />
+        <option value="$PROJECT_DIR$/DesignPatten/Comm_Db.php" />
       </list>
     </option>
   </component>
@@ -71,9 +66,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-1200" />
-    <option name="y" value="107" />
+    <option name="y" value="250" />
     <option name="width" value="1200" />
-    <option name="height" value="1020" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -120,12 +115,6 @@
               <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
               <item name="freestyle" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="freestyle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="DesignPatten" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -139,6 +128,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sort" />
       <recent name="$PROJECT_DIR$/DesignPatten" />
     </key>
   </component>
@@ -167,18 +157,17 @@
       <workItem from="1503643111661" duration="4211000" />
       <workItem from="1503888076771" duration="7635000" />
       <workItem from="1504595215752" duration="8139000" />
-      <workItem from="1504663432376" duration="2569000" />
+      <workItem from="1504663432376" duration="7128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22554000" />
+    <option name="totallyTimeSpent" value="27113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1200" y="107" width="1200" height="1020" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1200" y="250" width="1200" height="838" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3347826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3347826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -318,7 +307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InsertSort.php">
+    <entry file="file://$PROJECT_DIR$/Sort/InsertSort.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
@@ -334,18 +323,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="2202" column="9" lean-forward="false" selection-start-line="2202" selection-start-column="9" selection-end-line="2202" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DesignPatten/Comm_Db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPatten/Singleton.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="242">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
