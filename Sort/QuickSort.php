@@ -19,6 +19,7 @@ function createSortArr()
 function quickSort($sourceArr)
 {
     $len = count($sourceArr);
+
     if ($len <= 1)
     {
         return $sourceArr;
