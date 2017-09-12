@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/IteratorClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/IteratorPattern.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/AbstractFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/Factory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatten/SimpleFactory.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ApacheVsNginx.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/BubbleSort.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Kickstarter竞品分析.md" afterPath="" />
@@ -22,6 +23,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/微博的缓存业务场景.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/设计模式.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/高性能Mysql.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/freestyle.iml" afterPath="$PROJECT_DIR$/.idea/freestyle.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docs/设计模式.md" afterPath="$PROJECT_DIR$/Docs/设计模式.md" />
     </list>
@@ -34,56 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="abstracte.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com/v2/www/classes/controller/abstracte.php">
+      <file leaf-file-name="SimpleFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/SimpleFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="375" column="17" lean-forward="true" selection-start-line="375" selection-start-column="17" selection-end-line="375" selection-end-column="17" />
+            <state relative-caret-position="247">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Adapter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/Adapter.php">
+      <file leaf-file-name="Factory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/Factory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1577">
-              <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-              <folding>
-                <element signature="e#6#254#0#PHP" expanded="true" />
-                <marker date="1505113110000" expanded="true" signature="2073:2089" ph="SELECT * FRO... DB" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IteratorPattern.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/IteratorPattern.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="624">
+              <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IteratorClient.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/IteratorClient.php">
+      <file leaf-file-name="AbstractFactory.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/AbstractFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-388">
-              <caret line="9" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#110#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="662">
+              <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,9 +74,12 @@
       <find>finish pay order status failed with retry</find>
       <find>iapPay</find>
       <find>IteratorAggregate</find>
+      <find>用户权限分配</find>
+      <find>userlist</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak</dir>
+      <dir>$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -133,11 +113,15 @@
         <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/recomplete_order.php" />
         <option value="$PROJECT_DIR$/../../swan/swan/composer.json" />
         <option value="$PROJECT_DIR$/../../swan/swan/config/app.php" />
-        <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com/v2/www/classes/controller/abstracte.php" />
         <option value="$PROJECT_DIR$/DesignPatten/Adapter.php" />
         <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/test.php" />
         <option value="$PROJECT_DIR$/DesignPatten/IteratorPattern.php" />
         <option value="$PROJECT_DIR$/DesignPatten/IteratorClient.php" />
+        <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/cron/send_redenvelope.php" />
+        <option value="$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com/v2/www/classes/controller/abstracte.php" />
+        <option value="$PROJECT_DIR$/DesignPatten/SimpleFactory.php" />
+        <option value="$PROJECT_DIR$/DesignPatten/Factory.php" />
+        <option value="$PROJECT_DIR$/DesignPatten/AbstractFactory.php" />
       </list>
     </option>
   </component>
@@ -153,9 +137,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-1200" />
-    <option name="y" value="202" />
-    <option name="width" value="1200" />
-    <option name="height" value="925" />
+    <option name="y" value="-770" />
+    <option name="width" value="1199" />
+    <option name="height" value="927" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -209,127 +193,12 @@
               <item name="freestyle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="DesignPatten" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Iap" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Iap" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cron" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="freestyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freestyle" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="p.e.weibo.com.bak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="applications" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payplatform" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cron" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="iap" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,6 +207,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/lipengcheng/Desktop/code/FreeStyle/chaos/freestyle/DesignPatten/Factory.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -377,21 +247,22 @@
       <workItem from="1504751064323" duration="12877000" />
       <workItem from="1504835837928" duration="7088000" />
       <workItem from="1505095782609" duration="6000" />
-      <workItem from="1505095837643" duration="12811000" />
+      <workItem from="1505095837643" duration="14246000" />
+      <workItem from="1505181362298" duration="11067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66674000" />
+    <option name="totallyTimeSpent" value="79176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1200" y="202" width="1200" height="925" extended-state="0" />
+    <frame x="-1200" y="-770" width="1199" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38608697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3437772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -420,167 +291,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="364" column="19" lean-forward="true" selection-start-line="364" selection-start-column="19" selection-end-line="364" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/config/broadcasting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Models/SwanMessageModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Console/Commands/ClearExpiredMessages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Console/Commands/ListWeChatTemplates.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="60" column="40" lean-forward="false" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Console/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Exceptions/Handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Http/Controllers/Auth/ResetPasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Http/Controllers/Auth/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/Admin/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/Auth/PasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/AddArticleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/Auth/AuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../learnlaravel5/app/Http/Controllers/Admin/ArticleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/recomplete_order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Http/Controllers/Auth/ForgotPasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../swan/swan/app/Http/Controllers/Auth/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../swan/swan/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -670,7 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,19 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com/v2/www/classes/controller/abstracte.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="375" column="17" lean-forward="true" selection-start-line="375" selection-start-column="17" selection-end-line="375" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/config/error.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="324" column="6" lean-forward="true" selection-start-line="324" selection-start-column="6" selection-end-line="324" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,20 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="557" column="11" lean-forward="true" selection-start-line="557" selection-start-column="11" selection-end-line="557" selection-end-column="11" />
-          <folding>
-            <marker date="1503975271000" expanded="true" signature="3760:4200" ph="INSERT INTO ${self::IAP_TABLE}... " />
-            <marker date="1503975271000" expanded="true" signature="14336:14495" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="15200:15379" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="16081:16196" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="16829:16912" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="18081:18164" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="25620:25790" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="26465:26649" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="27293:27429" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="28104:28223" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="28856:28957" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503975271000" expanded="true" signature="29487:29583" ph="SELECT `orde... ${self::IAP_TABLE}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,7 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="238" column="57" lean-forward="true" selection-start-line="238" selection-start-column="57" selection-end-line="238" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,20 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="66" column="37" lean-forward="false" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
-          <folding>
-            <marker date="1503894283000" expanded="true" signature="4172:4610" ph="INSERT INTO ${self::IAP_TABLE}... " />
-            <marker date="1503894283000" expanded="true" signature="14668:14848" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="15539:15718" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="16420:16535" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="17178:17247" ph="SELECT * FRO... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="17828:17947" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="19212:19295" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="22860:23030" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="23705:23947" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="24622:24758" ph="SELECT COUNT... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="25978:26070" ph="SELECT `oid`... ${self::IAP_TABLE}" />
-            <marker date="1503894283000" expanded="true" signature="27876:28091" ph="INSERT INTO ${self::IAP_ORDER_TABLE}... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,24 +452,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="258" column="32" lean-forward="false" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPatten/Adapter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        <state relative-caret-position="680">
+          <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
           <folding>
-            <element signature="e#6#254#0#PHP" expanded="true" />
+            <element signature="e#6#254#0#PHP" expanded="false" />
             <marker date="1505113110000" expanded="true" signature="2073:2089" ph="SELECT * FRO... DB" />
           </folding>
         </state>
@@ -817,11 +476,225 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPatten/IteratorClient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-388">
-          <caret line="9" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state relative-caret-position="106">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#6#110#0#PHP" expanded="true" />
+            <element signature="e#6#110#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/area.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak/applications/payplatform/cron/iap/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/authConf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/env.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/mailConf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/messageConf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/noticeConf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/wbsysconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/bizdata/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/bizdata/define.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/bonus/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/dev/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/dig/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/view/template/include/global_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="46" column="114" lean-forward="false" selection-start-line="46" selection-start-column="114" selection-end-line="46" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/data/usermanage/dPower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
+            <marker date="1505181411000" expanded="true" signature="544:600" ph="select modul... user_powerlist" />
+            <marker date="1505181411000" expanded="true" signature="988:1016" ph="select * fro... user_powerlist" />
+            <marker date="1505181411000" expanded="true" signature="1406:1469" ph="UPDATE user_... " />
+            <marker date="1505181411000" expanded="true" signature="1790:1868" ph="INSERT INTO user_powerlist... " />
+            <marker date="1505181411000" expanded="true" signature="2154:2193" ph="DELETE FROM " />
+            <marker date="1505181411000" expanded="true" signature="2458:2508" ph="SELECT name,... module_manage" />
+            <marker date="1505181411000" expanded="true" signature="3083:3110" ph="SELECT * FRO... module_manage" />
+            <marker date="1505181411000" expanded="true" signature="3499:3566" ph="UPDATE modul... " />
+            <marker date="1505181411000" expanded="true" signature="3859:3931" ph="INSERT INTO module_manage... " />
+            <marker date="1505181411000" expanded="true" signature="4204:4242" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/cron/Lottery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/cron/send_redenvelope.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1505184869000" expanded="true" signature="3012:3070" ph="SELECT `out_... app_bonus_test" />
+            <marker date="1505184869000" expanded="true" signature="3816:3877" ph="UPDATE `app_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/model/usermanage/mPower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/control/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="78" column="12" lean-forward="false" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/control/usermanage/userlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/biz.admin.e.weibo.com/config/dataconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com/v2/www/classes/controller/abstracte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="396" column="64" lean-forward="false" selection-start-line="396" selection-start-column="64" selection-end-line="396" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/SimpleFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/AbstractFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

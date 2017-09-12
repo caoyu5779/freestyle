@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../cachet" />
+    <content url="file://$MODULE_DIR$/../../SOA" />
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../../learnlaravel5" />
     <content url="file://$MODULE_DIR$/../../swan" />
+    <content url="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/crowdfunding_app" />
     <content url="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/hb.weibo.com" />
     <content url="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com" />
     <content url="file://$USER_HOME$/Documents/code/eweibo/www/htdocs/p.e.weibo.com.bak" />
