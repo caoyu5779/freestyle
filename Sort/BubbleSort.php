@@ -10,8 +10,6 @@
 
 $destinationArr = [];
 
-
-
 function bubbleSort($sourceArr)
 {
     //求出循环长度
