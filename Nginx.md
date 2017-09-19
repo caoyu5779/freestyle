@@ -196,6 +196,20 @@ Http服务上支持若干虚拟主机。每个虚拟主机对应一个server配�
 * `index index.jsp index.html index.htm`: 定义路径下默认访问文件名，一般跟着root放
 * `proxy_pass http:/backend`: 请求转向backend定义的服务器列表，即反响代理，对应`upstream`负载均衡器。也可以`proxy_pass http://ip:port`
 
+## CGI
+
+### CGI简介
+
+CGI全称是“公共网关接口”(Common Gateway Interface),Http服务器与你的或其他机器上的程序进行“交谈”的一种工具，其程序需要运行在网络服务器上。
+
+CGI可以用任何一种语言编写，只要这种语言具有标准输入、输出和环境变量。
+
+### FastCGI简介
+
+FastCGI像是一个常驻型的CGI，它可以一直执行着，只要激活后，不会每次都花时间去fork一次。它还支持分布式的运算，即FastCGI程序可以在网站服务器以外的主机上执行并且接受来自其他网站服务器的请求。
+
+FastCGI是语言无关的、可伸缩架构的CGI开放扩展，其主要行为是将CGI解释器进程保持在内存中并因此获得较高的性能。众所周知，CGI解释器的反复加载是CGI性能低下的主要原因，如果CGI解释器保持在内存中并接受FastCGI进程管理器调度，则可以保持良好的性能、伸缩性、Fail－Over特性等等
+
 
 
 
