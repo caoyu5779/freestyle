@@ -19,33 +19,38 @@ def download_page(url):
     return data
 
 
-def get_li(doc):
+def get_li(doc, filename):
     soup = BeautifulSoup(doc, 'html.parser')
     title = soup.find('title')
     title_body = title.get_text()
-    write_result(title_body)
+    write_result(title_body, filename)
     ol = soup.find('div', attrs={'class':'detail'})
-    name = []  # 名字
-    star_con = []  # 评价人数
-    score = []  # 评分
-    detail_list = []  # 短评
     for i in ol.find_all('p'):
         str = i.get_text()
-        write_result(str)
+        print(str)
+        write_result(str, filename)
 
-def write_result(str):
-    f = open('tbody.txt','a')
+def write_result(str,filename):
+    f = open(filename,'a')
     f.write(str)
     f.write("\n")
 
+def batchGetContent():
+    for item in range(0,999999):
+        try:
+            originalurl = 'https://www.dongqiudi.com/archive/' + str(item) + '.html'
+            doc = download_page(originalurl)
+            filename = 'football/' + str(item) + '.txt'
+            print(filename)
+            get_li(doc,filename)
+        except Exception as err:
+            print(err)
+            print(str(item) + str(' web site cannot be spidered! Sorry!'))
+            continue
+
 
 def main():
-    url = DOWNLOAD_URL
-    detail_arr = []
-    title_body_arr = []
-
-    doc = download_page(url)
-    detail = get_li(doc)
+    result = batchGetContent()
 
 
 

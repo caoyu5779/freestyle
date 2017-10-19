@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dongqiudi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Guzzle学习.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -316,12 +311,12 @@
       <workItem from="1507688157511" duration="10971000" />
       <workItem from="1507774656658" duration="11368000" />
       <workItem from="1507858265316" duration="905000" />
-      <workItem from="1508297600017" duration="7578000" />
+      <workItem from="1508297600017" duration="8165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334486000" />
+    <option name="totallyTimeSpent" value="335073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1202" y="95" width="1200" height="963" extended-state="0" />
