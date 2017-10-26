@@ -1,7 +1,483 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="" />
+    <list default="true" id="a3ce277b-9c65-4c98-87f8-f19b3dee983e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1080.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1081.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1106.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1179.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1214.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1220.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1223.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1225.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1295.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1298.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1299.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1304.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1324.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1339.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1367.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1397.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1409.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1426.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/145.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1484.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/149.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1533.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1542.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/157.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1600.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1606.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/162.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1681.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1714.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1717.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1723.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1727.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1754.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1823.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1825.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1850.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1852.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1865.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1869.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1871.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1967.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/1980.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2049.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2069.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2083.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2085.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2086.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2087.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2088.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2089.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2090.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2091.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2092.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2093.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2094.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2095.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2096.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2109.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2186.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2258.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2267.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2271.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2272.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2301.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2388.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2405.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/241.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2414.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/244.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/247.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/250.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2502.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2535.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2536.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2537.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2539.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/254.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2547.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2633.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2634.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2638.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2639.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2705.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2778.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2787.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2789.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2790.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2791.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2792.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2794.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2795.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2796.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2797.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2798.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2799.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/280.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2800.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2801.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2802.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2803.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2805.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2806.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2807.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2808.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2809.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/281.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2810.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2811.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2812.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2813.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2814.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2815.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2816.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2817.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2818.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2819.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2820.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2821.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2822.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2823.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2824.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2825.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2826.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2827.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2828.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2829.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2830.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2831.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2832.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2833.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2834.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2835.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2836.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2837.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2839.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2840.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2842.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2843.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2844.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2845.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2846.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2847.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2848.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2849.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2850.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2851.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2854.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2855.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2856.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2857.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2858.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2859.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2860.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2861.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2862.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2863.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2864.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2865.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2867.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2869.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2870.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2871.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2872.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2873.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2875.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2876.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2877.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2878.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2879.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2880.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2881.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2882.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2885.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2886.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2889.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2891.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2892.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2893.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2895.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2898.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2900.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2901.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2902.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2904.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2905.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2906.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2909.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2911.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2912.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2913.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2915.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2916.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2917.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2919.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2920.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2921.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2922.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2924.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2925.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2926.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2927.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2929.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2930.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2938.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2939.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2940.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2941.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2942.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2943.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2944.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2945.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2946.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2947.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2949.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2951.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2952.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2953.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2954.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2955.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2956.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2957.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2958.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2959.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2960.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2961.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2963.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2964.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2965.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2966.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2967.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2968.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2970.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2971.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2972.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2973.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2974.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2975.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2976.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2977.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2978.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2979.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2980.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2981.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2982.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2983.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2990.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2991.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2992.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2993.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2994.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2995.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2996.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2997.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2998.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/2999.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3001.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3002.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3003.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3004.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3005.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3006.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3007.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3008.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3018.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3019.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3020.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3021.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3022.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3023.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3024.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3025.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3026.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3027.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3028.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3029.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3030.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3031.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3032.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3033.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3034.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3035.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3036.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3037.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3049.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3058.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/306.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3108.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3132.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3182.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3184.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3257.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3275.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/330.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3308.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3309.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3310.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3311.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3312.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3313.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3314.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3315.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3316.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3317.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3318.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3319.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3320.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3321.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3322.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3323.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3324.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3325.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3326.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3327.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3328.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3329.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3330.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3331.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3332.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3333.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3334.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3335.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3336.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3337.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3338.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3339.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3340.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3341.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3342.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3343.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3344.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3345.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3346.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3347.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3348.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3349.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3350.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3351.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3352.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3353.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3354.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3355.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3356.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3357.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3358.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3359.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3360.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3361.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3362.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3363.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3364.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3365.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3366.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3367.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3368.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3369.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3374.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3404.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3413.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3438.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/345.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3459.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3481.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3529.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3541.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3542.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3544.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3553.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3559.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3563.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3573.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/363.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3656.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/367.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3683.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3736.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3812.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/3926.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4001.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/402.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/406.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4080.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4126.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4147.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4156.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4196.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4205.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4211.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4233.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4235.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4250.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4252.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/4253.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/435.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/526.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/592.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/611.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/655.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/657.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/660.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/686.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/70.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/713.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/721.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/728.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/749.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/750.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/762.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/763.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/764.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/765.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/766.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/767.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/768.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/769.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/770.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/771.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/780.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/787.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/799.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/812.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/816.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/818.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/820.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/843.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/845.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/86.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/87.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/871.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/football/926.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dongqiudi.py" afterPath="$PROJECT_DIR$/dongqiudi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nohup.out" afterPath="$PROJECT_DIR$/nohup.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +490,30 @@
       <file leaf-file-name="Redis.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/library/Model/Redis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="4180">
               <caret line="220" column="0" lean-forward="false" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time_factor.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/time_factor.php">
+      <file leaf-file-name="finance_wbpay_trade_daily_check.php" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/Check/finance_wbpay_trade_daily_check.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cron_include.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/Check/cron_include.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
-                <element signature="e#6#101#0#PHP" expanded="true" />
+                <marker date="1491377561000" expanded="true" signature="16999:17023" ph="..." />
               </folding>
             </state>
           </provider>
@@ -178,10 +664,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1202" />
-    <option name="y" value="95" />
+    <option name="x" value="-1207" />
+    <option name="y" value="213" />
     <option name="width" value="1200" />
-    <option name="height" value="963" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -217,6 +703,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,8 +716,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,34 +798,39 @@
       <workItem from="1507774656658" duration="11368000" />
       <workItem from="1507858265316" duration="905000" />
       <workItem from="1508297600017" duration="8165000" />
+      <workItem from="1508464586450" duration="1089000" />
+      <workItem from="1508723640461" duration="530000" />
+      <workItem from="1508808967855" duration="4826000" />
+      <workItem from="1508895486542" duration="598000" />
+      <workItem from="1508982484689" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335073000" />
+    <option name="totallyTimeSpent" value="343314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1202" y="95" width="1200" height="963" extended-state="0" />
+    <frame x="-1207" y="213" width="1200" height="838" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30086955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3321739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="-1100" y="350" width="1000" height="638" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,9 +846,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/clear_count.php" />
-    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/library/Model/Project.php" />
-    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/controllers/Index.php" />
     <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/library/Tool/CrowdfundingMeta.php" />
     <entry file="file://$PROJECT_DIR$/num_count.sh">
       <provider selected="true" editor-type-id="text-editor">
@@ -420,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
           <caret line="532" column="9" lean-forward="true" selection-start-line="532" selection-start-column="9" selection-end-line="532" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="669">
           <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,6 +1128,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/library/Model/Queue/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_factor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/Check/finance_surplus.awk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/library/Model/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="220" column="0" lean-forward="false" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/Check/cron_include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1491377561000" expanded="true" signature="16999:17023" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/config/db/pool.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -659,36 +1191,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/library/Model/Queue/Db.php">
+    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding/applications/crowdfunding/cron/Check/finance_wbpay_trade_daily_check.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/code/weibo/www/htdocs/crowdfunding_app/applications/crowdfunding_app/library/Model/Redis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="220" column="0" lean-forward="false" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/closure.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time_factor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#101#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
